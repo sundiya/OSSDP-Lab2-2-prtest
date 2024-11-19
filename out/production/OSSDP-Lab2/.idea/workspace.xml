@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f0004866-9518-46fb-b347-70f635ad4213" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/Solution1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution10.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/Solution10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution11.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/Solution11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution12.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/Solution12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution13.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/Solution13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution14.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/Solution14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution15.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/Solution15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution16.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/Solution16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution17.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solution17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution18.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/Solution18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution19.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/Solution19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution20.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/Solution20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/Solution3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution4.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/Solution4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution5.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/Solution5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution6.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/Solution6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution7.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/Solution7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution8.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/Solution8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution9.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/Solution9.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2oPf0NT6jOCaOd5mW7ejoMHL3Rz" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/DELL/Desktop/OSSAP Lab2/OSSDP-Lab2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.Solution.executor": "Run",
+    "应用程序.Solution17.executor": "Run",
+    "应用程序.main.executor": "Run"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Desktop\OSSAP Lab2\OSSDP-Lab2\out" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SolutionTest.findRepeatedDnaSequences">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="OSSDP-Lab2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest.findRepeatedDnaSequences" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OSSDP-Lab2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SolutionTest" />
+      <option name="METHOD_NAME" value="findRepeatedDnaSequences" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SolutionTest.findRepeatedDnaSequences" />
+        <item itemvalue="应用程序.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="f0004866-9518-46fb-b347-70f635ad4213" name="更改" comment="" />
+      <created>1730775907840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730775907840</updated>
+      <workItem from="1730775909093" duration="1891000" />
+      <workItem from="1730817902162" duration="600000" />
+      <workItem from="1731925413567" duration="1359000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
