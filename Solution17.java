@@ -1,5 +1,5 @@
 import java.util.*;
-//添加一行注释
+//不干别的，就是想添加一行注释（）
 /*
  * @Description
  * 重复 DNA 序列
